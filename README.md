@@ -48,7 +48,7 @@ Key analyses:
 **Key insight:**  
 Infants and cats account for the highest intake volumes, with strong seasonal and geographic patterns.
 
-![Intake Overview](images/intake_overview.png)
+![Intake Overview](Images/Intake.png)
 
 ---
 
@@ -64,7 +64,7 @@ Key analyses:
 **Key insight:**  
 While live outcomes dominate overall, adoption growth has not fully kept pace with rising intake pressure, especially during peak seasons.
 
-![Outcome Overview](images/outcome_overview.png)
+![Outcome Overview](Images/Outcome.png)
 
 ---
 
@@ -97,7 +97,7 @@ While live outcomes dominate overall, adoption growth has not fully kept pace wi
 ---
 
 ## 🔗 Live Interactive Dashboard
-👉 [View Interactive Power BI Dashboard](PASTE_YOUR_POWER_BI_LINK_HERE)
+👉 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzc0M2NhMTctOTQ2Zi00ZDZiLTg2ODUtZTRhYjkwNTZlZWQyIiwidCI6IjA3NTY1ZTVjLTU2ODEtNDk5OC1hN2RjLTU1OGZiM2U2OGU3NSJ9)
 
 ---
 
